@@ -259,6 +259,117 @@
                 "memory_size": 64,
                 "file_size": 17616
             }
+        },
+        "cdffa69d-99c9-43a4-b18a-2f8d364e3ad2": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8888888888888888,
+                "recall": 0.8888888888888888,
+                "precision": 0.8888888888888888,
+                "accuracy": 0.8888888888888888
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 5,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 13,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665584310,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.022001981735229492,
+                "date": "2022-10-12 14:18:59.122745",
+                "predict_time": 0.003365039825439453,
+                "memory_size": 64,
+                "file_size": 44704
+            }
+        },
+        "b1fa9dba-fe83-400d-94ce-45031af2eeff": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8888888888888888,
+                "recall": 0.8888888888888888,
+                "precision": 0.8888888888888888,
+                "accuracy": 0.8888888888888888
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 5,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 9,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665584573,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.016175270080566406,
+                "date": "2022-10-12 14:23:10.576163",
+                "predict_time": 0.0026772022247314453,
+                "memory_size": 64,
+                "file_size": 31920
+            }
+        },
+        "4f059add-33ab-4db0-95e4-43060c44205a": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8888888888888888,
+                "recall": 0.8888888888888888,
+                "precision": 0.8888888888888888,
+                "accuracy": 0.8888888888888888
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 5,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 11,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665584573,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.018905162811279297,
+                "date": "2022-10-12 14:23:16.493198",
+                "predict_time": 0.0033349990844726562,
+                "memory_size": 64,
+                "file_size": 38528
+            }
         }
     }
 }
