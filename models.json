@@ -1,0 +1,264 @@
+{
+    "data": {},
+    "models": {
+        "d9c87f17-5f2a-44b3-8590-03966e1845ab": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.9655172413793104,
+                "recall": 1.0,
+                "precision": 0.9333333333333333,
+                "accuracy": 0.96875
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 4,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 4,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665318597,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.009529829025268555,
+                "date": "2022-10-09 12:30:02.308403",
+                "predict_time": 0.0024564266204833984,
+                "memory_size": 64,
+                "file_size": 11696
+            }
+        },
+        "ec28a202-369e-4e4b-add7-5d359c650aab": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8571428571428571,
+                "recall": 0.8571428571428571,
+                "precision": 0.8571428571428571,
+                "accuracy": 0.875
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 16,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 1,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": null,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.0034644603729248047,
+                "date": "2022-10-10 14:02:22.502733",
+                "predict_time": 0.0022182464599609375,
+                "memory_size": 64,
+                "file_size": 8608
+            }
+        },
+        "ce911db6-8d82-439e-834d-bf03f513c8d8": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8571428571428571,
+                "recall": 0.8571428571428571,
+                "precision": 0.8571428571428571,
+                "accuracy": 0.875
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 40,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 5,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": null,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.01064443588256836,
+                "date": "2022-10-10 14:02:30.022262",
+                "predict_time": 0.0028853416442871094,
+                "memory_size": 64,
+                "file_size": 34448
+            }
+        },
+        "1f49db69-ff6c-4422-a918-92d9b242b1a5": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.888888888888889,
+                "recall": 0.8571428571428571,
+                "precision": 0.9230769230769231,
+                "accuracy": 0.90625
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 6,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 8,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665413274,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.014738082885742188,
+                "date": "2022-10-10 14:48:08.356988",
+                "predict_time": 0.0027103424072265625,
+                "memory_size": 64,
+                "file_size": 34512
+            }
+        },
+        "8ee48c23-ea49-480a-8035-9c825dde7533": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.888888888888889,
+                "recall": 0.8571428571428571,
+                "precision": 0.9230769230769231,
+                "accuracy": 0.90625
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 8,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 4,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665413665,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.008805990219116211,
+                "date": "2022-10-10 14:54:29.832387",
+                "predict_time": 0.0023996829986572266,
+                "memory_size": 64,
+                "file_size": 24656
+            }
+        },
+        "9591c465-5d4e-40e6-a049-6d458f1e7305": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.8571428571428571,
+                "recall": 0.8571428571428571,
+                "precision": 0.8571428571428571,
+                "accuracy": 0.875
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 4,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 5,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665414453,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.009717702865600586,
+                "date": "2022-10-10 15:07:39.967087",
+                "predict_time": 0.002541780471801758,
+                "memory_size": 64,
+                "file_size": 13296
+            }
+        },
+        "5fbb4001-3946-41d3-921b-48ae3f60984a": {
+            "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+            "score": {
+                "f1": 0.896551724137931,
+                "recall": 0.9285714285714286,
+                "precision": 0.8666666666666667,
+                "accuracy": 0.90625
+            },
+            "params": {
+                "bootstrap": true,
+                "ccp_alpha": 0.0,
+                "class_weight": null,
+                "criterion": "gini",
+                "max_depth": 5,
+                "max_features": "auto",
+                "max_leaf_nodes": null,
+                "max_samples": null,
+                "min_impurity_decrease": 0.0,
+                "min_samples_leaf": 1,
+                "min_samples_split": 2,
+                "min_weight_fraction_leaf": 0.0,
+                "n_estimators": 5,
+                "n_jobs": null,
+                "oob_score": false,
+                "random_state": 1665414453,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "description": {
+                "model": "RandomForestClassifier",
+                "time": 0.010214805603027344,
+                "date": "2022-10-10 15:07:40.027757",
+                "predict_time": 0.0023946762084960938,
+                "memory_size": 64,
+                "file_size": 17616
+            }
+        }
+    }
+}
